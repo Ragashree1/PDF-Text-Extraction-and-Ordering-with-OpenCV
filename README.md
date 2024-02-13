@@ -12,3 +12,8 @@ pip install --upgrade pymupdf
 pip install opencv-python
 pip install xlsxwriter
 
+## Image dialation
+![Dialated Image](dialated.png)
+
+## Result
+![Result](annotated_image.png)
